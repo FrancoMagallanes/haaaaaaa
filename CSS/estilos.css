@@ -1,7 +1,10 @@
 ﻿body {
 
-    background-color:aqua
+    background-color:aqua;
 
 
+        font-weight:bold;
+
+        color:red;
 
 }
